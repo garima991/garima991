@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Garima</h1>
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Web development** 🚀
+
+- 👨‍💻 Check out my personal portfolio : https://garimaa-portfolio.netlify.app/
 
 - 📫 How to reach me **saxenagarima2953@gmail.com**
 
