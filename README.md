@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Garima</h1>
+![github-header-image](https://github.com/GarimaOfficial/GarimaOfficial/assets/109850032/949bd0c8-c478-4557-aab4-dd078968c728)
 
 - 🌱 I’m currently learning **Web development** 🚀
 
