@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Garima</h1>
+![MasterHead](https://github.com/GarimaOfficial/GarimaOfficial/assets/109850032/9cd2638b-9f16-4720-963a-60e4cbcc2b1a)
 
 - 🌱 I’m currently learning **Web development** 🚀
 
