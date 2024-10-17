@@ -2,8 +2,6 @@
 
 - 🌱 I’m currently learning **Web development** 🚀
 
-- 👨‍💻 Check out my personal portfolio : https://garimaa-portfolio.netlify.app/
-
 - 📫 How to reach me **saxenagarima2953@gmail.com**
 
 ## 🌐 Connect with me:
