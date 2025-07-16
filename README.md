@@ -1,11 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Garima</h1>
 
-- 🔭 I’m currently working on **state management**
+- 🌱 I’m currently learning **Next.js and TypeScript**
 
-- 🌱 I’m currently learning **React and React Redux**
-
-- 💬 Ask me about **JavaScript, React**
+- 💬 Ask me about **JavaScript, React, Next.js**
 
 - 📫 How to reach me **saxenagarima2953@gmail.com**
 
